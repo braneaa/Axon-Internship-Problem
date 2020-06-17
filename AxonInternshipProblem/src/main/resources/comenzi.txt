@@ -1,0 +1,27 @@
+Florescu Ana goes shopping on  2020-04-30
+Product - Price - Market : 
+portocale - 7.99 - Mega Image
+banane - 3.99 - Auchan
+paste - 5.15 - Auchan
+orez - 6.2 - Lidl
+inghetata - was not found
+Total sum was : 23.33
+
+Ionescu Maria goes shopping on  2020-04-15
+Product - Price - Market : 
+iaurt - 1.5 - Lidl
+paine - 3.0 - Lidl
+cafea - 4.2 - Lidl
+zahar - 2.78 - Lidl
+orez - 5.0 - Lidl
+Total sum was : 16.48
+
+Popescu Dan goes shopping on  2020-04-26
+Product - Price - Market : 
+orez - was not found
+portocale - 7.99 - Mega Image
+ciocolata - 5.0 - Mega Image
+banane - 3.49 - Auchan
+cirese - was not found
+Total sum was : 16.48
+
