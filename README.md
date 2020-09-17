@@ -92,20 +92,3 @@ continand un director src cu package-urile de surse
 daca folositi biblioteci externe treceti numele lor intr-un fisier cu numele dependencies inclus in arhiva
 daca aveti precizari cu privire la codul vostru, sau ati avut nelamuriri cu privire la cerinte, treceti-le intr-un fisier readme inclus in arhiva
 Incarcati arhiva prin intermediul acestei aplicatii accesand sectiunea Trimite.
-
-Daca aveti nelamuriri cu privire la cerinta sau livrarea rezolvarii, scrieti un email la adresa internship@axonsoft.ro.
-
-Evaluare
-Se vor evalua:
-
-algoritmul implementat
-structurarea proiectului
-Puncte bonus vor fi acordate pentru:
-
-cod usor de citit, repectand paradigmele OOP si bunele practici de programare
-folosirea cu rost a cat mai multor API-uri din JDK
-folosirea sintaxei Java 8
-comentarea codului, in special in format javadoc
-scrierea de teste unitare
-dezvoltarea proiectului utilizand Spring Boot
-(**Angular) design-ul interfetei utilizator
